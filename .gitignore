@@ -1,0 +1,10 @@
+# Node
+node_modules/
+.env
+*.log
+
+# SQLite caso use futuramente
+*.sqlite
+
+# VSCode
+.vscode/
